@@ -1,0 +1,12 @@
+com/ktronix/www/automation/userinterface/ProductPage.java
+ com.ktronix.www.automation.userinterface.ProductPage
+com/ktronix/www/automation/userinterface/HomePage.java
+ com.ktronix.www.automation.userinterface.HomePage
+com/ktronix/www/automation/tasks/GoToProduct.java
+ com.ktronix.www.automation.tasks.GoToProduct
+com/ktronix/www/automation/tasks/GoToCart.java
+ com.ktronix.www.automation.tasks.GoToCart
+com/ktronix/www/automation/userinterface/CheckOutPage.java
+ com.ktronix.www.automation.userinterface.CheckOutPage
+com/ktronix/www/automation/tasks/GoToCheckOut.java
+ com.ktronix.www.automation.tasks.GoToCheckOut
